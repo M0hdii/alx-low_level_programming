@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * Description: Prints "Programming is like building a multilingual puzzle
-                                                    followed by a new line
+ * Description: main -  Prints "Programming is like building a multilingual puzzle
  * Return: 0 if success.
  */
 int main(void)
