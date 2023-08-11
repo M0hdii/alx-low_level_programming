@@ -2,8 +2,7 @@
 
 /**
  * main - Prints all possible combinations of two different digits
- *        in ascending order and separated by a comma and space.
- *
+ * in ascending order and separated by a comma and space.
  * Return: Always (0) if successful.
  */
 int main(void)
