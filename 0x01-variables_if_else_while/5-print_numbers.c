@@ -5,6 +5,6 @@
 
 int main(void)
 {
-    for (int number = 0; number < 10; number++) printf("%d\n", number);
+    printf("0123456789\n");
     return 0;
 }
