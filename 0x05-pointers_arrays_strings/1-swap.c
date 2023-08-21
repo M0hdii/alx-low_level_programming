@@ -5,9 +5,9 @@
  * @b: The second integer.
  */
 
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
-	int swp = *a;
+	int tmp = *a;
 	*a = *b;
-	*b = swp;
+	*b = tmp;
 }
